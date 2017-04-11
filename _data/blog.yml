@@ -5,6 +5,13 @@
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Python
   href: /python/
+<<<<<<< HEAD
+=======
+=======
+- name: VRAR
+  href: /VRAR/
+>>>>>>> parent of cd6e2d9... Update blog.yml
+>>>>>>> origin/master
 
 - name: Linux
   href: /linux/
