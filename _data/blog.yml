@@ -4,7 +4,7 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: 智能硬件
-  href: /intelligent device/
+  href: /intelligent_device/
 
 - name: Linux
   href: /linux/
