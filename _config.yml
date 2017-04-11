@@ -16,11 +16,11 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
-assets: http://sunxiaobiu.github.io/assets
-baseurl: http://sunxiaobiu.github.io
+assets: http://Eugene33.github.io/assets
+baseurl: http://Eugene33.github.io
 
 # pagination
-paginate: 10
+paginate: 5
 
 # Markdown Processors
 markdown: redcarpet
