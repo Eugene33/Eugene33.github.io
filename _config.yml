@@ -16,11 +16,11 @@ author:  # change following line to your infomation.
   last_name: Yongji  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Eugene33  # Leave blank if you don't have now
-  linkedin_id: kun-jia-991264a2 # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
-  email: me@jarrekk.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # A online CV can be printed as PDF, leave blank if you don't have now
+  linkedin_id: mengyongji # Leave blank if you don't have now
+  facebook_username: meng.yongji  # Leave blank if you don't have now
+  twitter_username: Eugene_Meng  # Leave blank if you don't have now
+  email: yunky33@outlook.com  # Leave blank if you don't have now
+  cv: http://  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: 思考、设计、制造、分享，这就是我的人生，我的生活，乐在其中，一往无前。一名极客设计师。  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -49,7 +49,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 
 # Build settings
