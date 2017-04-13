@@ -41,3 +41,17 @@
     detail: 创意设计师
     i18n: company_b_job
   icon: fa-plus-square
+  
+  - name:
+    detail: 易晟工作室
+    i18n: company_b
+  desc:
+    detail: 校内组建工作室
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2015
+    i18n: company_b_date
+  job:
+    detail: 工作室负责人
+    i18n: company_b_job
+  icon: fa-plus-square
