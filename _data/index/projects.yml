@@ -8,12 +8,12 @@
   img: /static/assets/img/landing/jekyll.png
   desc: 这个项目是工业视效制作集合，欢迎访问查看。
 
-- name: LeetCode
-  i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
+- name: 工业产品设计
+  i18n: 
+  gh_user: 工业产品设计
+  repo: 工业产品设计
   img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: 这个项目是我工业产品集合，欢迎访问查看。
 
 - name: 我的为公众号
   i18n: 
