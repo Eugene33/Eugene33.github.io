@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: 工业视效制作
+  i18n: 
+  gh_user: 工业视效制作
+  repo: G.D.Yongji
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: 这个项目是工业视效制作集合，欢迎访问查看。
 
 - name: LeetCode
   i18n: leetcode
@@ -15,7 +15,7 @@
   img: /static/assets/img/landing/leetcode.png
   desc: This project is other's project. I use another request to get repo's information.
 
-- name: FamilyCODE Wchat
-  i18n: familycode
+- name: 我的为公众号
+  i18n: 
   img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+  desc: 这是我的微信公众号，分享我的关注。
