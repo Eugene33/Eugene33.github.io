@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Creativity, 3DSMAX, Vray, Photoshop, AI, Writing, Speech
-percentage: 80, 70, 75, 80, 70, 85, 50
+aspects: Creativity, 3DSMAX, Vray, Unity3D, Photoshop, Illustrator, AE, Writing, Speech
+percentage: 80, 70, 75, 40, 80, 70, 70, 85, 50
