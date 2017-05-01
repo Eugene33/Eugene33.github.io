@@ -10,12 +10,12 @@
 
 - name: 工业产品设计
   i18n: 
-  gh_user: 工业产品设计
-  repo: 工业产品设计
-  img: /static/assets/img/landing/leetcode.png
+  gh_user: eugene33
+  repo: Industrial-design
+  img: /static/assets/img/landing/Industrial-design.png
   desc: 这个项目是我工业产品集合，欢迎访问查看。
 
-- name: 我的为公众号
+- name: 我的微信公众号
   i18n: 
   img: /static/assets/img/landing/familycode.png
-  desc: 这是我的微信公众号，分享我的关注。
+  desc: 这是我的微信公众号，分享我的关注
