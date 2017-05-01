@@ -4,7 +4,7 @@
     detail: 意物工业设计有限公司
     i18n: company_a
   desc:
-    detail: 参与工业设计工作以及工业视效设计工作
+    detail: 参与工业设计以及工业视效制作工作,开始探索UI与交互在VR中的设计方法
     i18n: company_a_desc
   date:
     detail: Apr. 2016
@@ -18,7 +18,7 @@
     detail: 深圳西特维普科技有限公司
     i18n: company_b
   desc:
-    detail: 担任创意设计师
+    detail: 市场部担任创意设计师，收集流行趋势，参与产品规划
     i18n: company_b_desc
   date:
     detail: Jun. 2015
@@ -32,13 +32,13 @@
     detail: 上善工业设计有限公司
     i18n: company_b
   desc:
-    detail: 工业设计实习
+    detail: 工业设计实习，参与产品造型设计
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Oct. 2014
     i18n: company_b_date
   job:
-    detail: 创意设计师
+    detail: 工业设计师
     i18n: company_b_job
   icon: fa-plus-square
  
