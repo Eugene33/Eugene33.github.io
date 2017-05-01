@@ -19,7 +19,7 @@
   href: /geek/
 
 - name: 思考随笔
-  href: /think essay/
+  href: /think/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
