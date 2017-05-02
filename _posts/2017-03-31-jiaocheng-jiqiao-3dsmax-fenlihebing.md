@@ -4,7 +4,7 @@ title:  "【技巧-3DSMAX】3DSMAX如何快速分离已合并物体"
 date:   2017-01-31
 desc: "在3DSmax中如何快速的分离已合并物体"
 keywords: "3DSMAX，合并，分离"
-categories: [tutorial]
+categories: [教程]
 tags: [3DSMAX,技巧，优化修改器]
 icon: icon-html
 ---
